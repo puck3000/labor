@@ -1,0 +1,1 @@
+$(function(){$("#asideToggle").click(function(i){$("aside").fadeOut()})});
